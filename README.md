@@ -28,6 +28,19 @@ A Java application that calculates total marks, average percentage, and grade ba
 * Assigns grades automatically
 * Displays complete result summary
 
+### Task 5: Student Management System
+
+A Java-based application designed to manage student records efficiently. The system allows users to add, view, update, and delete student information through a menu-driven interface.
+
+**Key Features:**
+
+* Add student records
+* View student details
+* Update student information
+* Delete student records
+* Menu-driven user interface
+* Efficient data management using Java collections
+
 ## Technologies Used
 
 * Java
